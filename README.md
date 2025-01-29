@@ -1,2 +1,2 @@
 # daniel.adrian-portfolio
- Portfólio responsivo desenvolvido em HTML, CSS & JS
+ Portfólio responsivo desenvolvido em HTML, CSS e JS
